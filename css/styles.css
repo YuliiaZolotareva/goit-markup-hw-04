@@ -514,5 +514,12 @@ width: 264px;
 .footer-container{
     margin-right: 120px;
 }
+.list-link-footer:focus ,
+.list-link-footer:hover {
+    background-color: #31d0aa;
+}
+.item-footer{
+    transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 
 /*-----------------/FOOTER STYLES--------------*/
